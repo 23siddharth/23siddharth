@@ -51,7 +51,7 @@
 
 - 📧 Email: siddharth.saxena2303@gmail.com  
 - 💼 LinkedIn: [Siddharth Saxena](https://www.linkedin.com/in/siddharth-saxena-b69b01287/)  
-- 🧑‍💻 LeetCode: [siddharth10111]([https://leetcode.com/SiddharthSaxena](https://leetcode.com/u/siddharth10111/))  
+- 🧑‍💻 LeetCode: [siddharth10111](https://leetcode.com/u/siddharth10111/)  
 - 👨🏻‍💻 Codeforces : [siddharth10111](https://codeforces.com/profile/siddharth10111)
 
 ---
