@@ -2,9 +2,6 @@
 <p align="center">
 <img height=500rem src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
 </p>
-<p align="center">
-  🎓 IIT BHU (Electrical Engineering) student | 💻 Passionate Competitive Programmer <br/>
-</p>
 
 ---
 
